@@ -1,11 +1,11 @@
 ```javascript
 const developer = {
    name: "Facundo",
-   age: 26,
-   languages: ['Javascript', 'TypeScript^ ', 'Python 3^ '],
+   age: 28,
+   languages: ['Javascript', 'TypeScript^ ', 'Python 3^ ', 'Go'],
    technologies: {
      frontend: ['React v18^ ', 'Next.js v13^ ', 'HTML', 'CSS', 'Tailwind^ '],
-     backend: ['linux^ ', Docker^ ', 'PostgreSql^ ', 'MongoDB^ ', 'Express.js','Prisma^ ','Django^ ', 'Elysia']
+     backend: ['linux^ ', Docker^ ', 'PostgreSql^ ', 'Express.js','Prisma^ ','Django^ ']
    },
    objective: "Specialist Backend Developer"
 }
