@@ -7,7 +7,6 @@ const developer = {
      frontend: ['React v18^ ', 'Next.js v13^ ', 'HTML', 'CSS', 'Tailwind^ '],
      backend: ['linux^ ', Docker^ ', 'PostgreSql^ ', 'Express.js','Prisma^ ','Django^ ']
    },
-   deplloy: (this.tecnologies) => {} 
    objective: "Specialist Backend Developer"
 }
 
@@ -15,8 +14,8 @@ const deploymentSkills = {
    platform_as_service: ['Vercel', 'Railway'],
    traditional_hosting: ['Hostinger', 'DonWeb'],
    cloud_services: ['Google Cloud', 'Cloudflare (CDN/DNS)'],
-```
 }
+```
 
 <h2 align="center">You can reach me at ::</h2>
   <a href="https://www.linkedin.com/in/facundoburgos96/">
