@@ -20,7 +20,6 @@ const deploymentSkills = {
   traditionalHosting: ["Hostinger", "DonWeb"],
   cloudServices: ["Google Cloud", "Cloudflare", "DigitalOcean"],
 };
-```
 
 <h2 align="center">You can reach me at</h2>
 <p align="center">
@@ -33,3 +32,4 @@ const deploymentSkills = {
 
 ⭐️ From [@fxcx](https://www.linkedin.com/in/facundoburgos96)
 ---
+```
