@@ -1,25 +1,35 @@
 ```javascript
 const developer = {
-   name: "Facundo",
-   age: 28,
-   languages: ['Javascript', 'TypeScript^ ', 'Python 3^ ', 'Go'],
-   technologies: {
-     frontend: ['React v18^ ', 'Next.js v13^ ', 'HTML', 'CSS', 'Tailwind^ '],
-     backend: ['linux^ ', Docker^ ', 'PostgreSql^ ', 'Express.js','Prisma^ ','Django^ ']
-   },
-   objective: "Specialist Backend Developer"
-}
+  name: "Facundo",
+  objective: "Backend Developer Specialist",
+  languages: ["JavaScript", "TypeScript", "Python", "Go"],
+  technologies: {
+    frontend: ["React", "Next.js", "HTML", "CSS", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js", "Django", "Go"],
+    database: {
+      relational: ["PostgreSQL", "SQL"],
+      orm: ["Prisma"],
+      inMemory: ["Redis"],
+    },
+    devops: ["Linux", "Docker"],
+  },
+};
 
 const deploymentSkills = {
-   platform_as_service: ['Vercel', 'Railway'],
-   traditional_hosting: ['Hostinger', 'DonWeb'],
-   cloud_services: ['Google Cloud', 'Cloudflare (CDN/DNS)'],
-}
+  platformAsAService: ["Vercel", "Railway"],
+  traditionalHosting: ["Hostinger", "DonWeb"],
+  cloudServices: ["Google Cloud", "Cloudflare", "DigitalOcean"],
+};
 ```
 
-<h2 align="center">You can reach me at ::</h2>
+<h2 align="center">You can reach me at</h2>
+<p align="center">
   <a href="https://www.linkedin.com/in/facundoburgos96/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="facundo burgos's LinkedIn Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Facundo Burgos on LinkedIn" height="30" width="30">
   </a>
+</p>
+
 ---
-⭐️ From [@fxcx]https://www.linkedin.com/in/facundoburgos96
+
+⭐️ From [@fxcx](https://www.linkedin.com/in/facundoburgos96)
+---
