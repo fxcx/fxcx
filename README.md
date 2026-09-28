@@ -21,13 +21,17 @@ const deploymentSkills = {
   cloudServices: ["Google Cloud", "Cloudflare", "DigitalOcean"],
 };
 ```
----
-<h2 align="center">You can reach me at</h2>
+<h2 align="center">📬 Contact me</h2>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/facundoburgos96/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Facundo Burgos on LinkedIn" height="30" width="30">
+    <img src="https://img.shields.io/badge/LinkedIn-facundoburgos96-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Facundo Burgos on LinkedIn">
+  </a>
+  <a href="https://dev-fmjs31ppf-fxcxs-projects.vercel.app/projects">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Facundo Burgos portfolio website">
   </a>
 </p>
+
 ---
-⭐️ From [@fxcx](https://www.linkedin.com/in/facundoburgos96)
----
+
+<p align="center">⭐️ From <a href="https://www.linkedin.com/in/facundoburgos96/">@fxcx</a></p>
